@@ -13,7 +13,7 @@
 
 ````javascript
 const Abdullah = {
-  programmingLanguage: ["Java", "PHP", "Python],
+  programmingLanguages: ["Java", "PHP", "Python],
   technologies: {
     FrontEnd: ["HTML", "CSS", "JS", "Bootstrap", "JQuery", "TailwindCSS"],
     BackEnd: ["PHP", "Laravel", "Vuejs"],
