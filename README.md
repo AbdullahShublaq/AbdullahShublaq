@@ -6,7 +6,7 @@
 [![Linkedin: abdullahshublaq](https://img.shields.io/badge/-abdullahshublaq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
 [![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq.com-red)](mailto:dev.abdullahshublaq@gmail.com
 )
-[![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdulahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
+[![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
 
 
 
