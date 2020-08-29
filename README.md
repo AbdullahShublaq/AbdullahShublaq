@@ -21,7 +21,7 @@ const AbdullahShublaq = {
     VCS: ["Git"],
     API: ["REST"]
   },
-  learning: ["Vuejs", "Flutter"]
+  myNextGoal: ["Vuejs", "Flutter"]
 }
 ```
 <!--
