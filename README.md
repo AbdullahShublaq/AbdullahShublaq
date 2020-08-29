@@ -21,7 +21,7 @@ const Abdullah = {
     VCS: ["Git"],
     API: ["REST"]
   },
-  Learning: ["Vuejs", "Flutter"]
+  learning: ["Vuejs", "Flutter"]
 }
 ```
 
