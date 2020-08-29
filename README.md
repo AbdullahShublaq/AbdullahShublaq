@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.iugaza.edu.ps/en/">Islamic University of Gaza</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FullStack web-Developer as a Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: abdullahshublaq](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
+[![Linkedin: abdullahshublaq](https://img.shields.io/badge/-abdullahshublaq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
 [![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq.com-red)](mailto:dev.abdullahshublaq@gmail.com
 )
 
