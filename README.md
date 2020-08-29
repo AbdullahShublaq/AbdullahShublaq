@@ -7,6 +7,7 @@
 [![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq.com-red)](mailto:dev.abdullahshublaq@gmail.com
 )
 [![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
