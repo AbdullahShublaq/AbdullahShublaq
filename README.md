@@ -1,13 +1,31 @@
-<h2> Hi there 👋, I'm Abdullah Shublaq! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<p><em>Software Enginner at <a href="http://www.iugaza.edu.ps/en/">Islamic University of Gaza</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FullStack web-Developer as a Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi there 👋, I'm Abdullah Shublaq</h2>
+<p><em>
+  I am a junior web developer with +2 years of experience in PHP Laravel, with multi-language multi-regional projects.
+  I'm a fast learner, love doing challenges and problem solving.
 </em></p>
 
-[![Linkedin: abdullahshublaq](https://img.shields.io/badge/-abdullahshublaq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
-[![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq-red)](mailto:dev.abdullahshublaq@gmail.com
-)
-[![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
+<b>PRIMARY SKILLS</b>
+<ul>
+  <li>PHP Laravel.</li> 
+  <li>TDD (Test-driven development).</li>  
+  <li>HTML, CSS, SASS, JS.</li>  
+  <li>Bootstrap, TailwindCSS.</li>  
+  <li>JQuery, Ajax.</li>  
+  <li>RESTFul API.</li>  
+  <li>MySQL, MongoDB, PostgreSQL, Firebase.</li>  
+  <li>Git, Github, Gitlab, BitBucket, SVN.</li>  
+</ul>
+
+<p align="center">
+  [![Linkedin: abdullahshublaq](https://img.shields.io/badge/-abdullahshublaq-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
+  
+  [![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq-red)](mailto:dev.abdullahshublaq@gmail.com
+  )
+  
+  <a href="https://stackoverflow.com/users/13170519/abdullah-shublaq"><img src="https://img.shields.io/badge/StackOverflow-F27F33?logo=stackoverflow"/></a>
+  <!-- [![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq) -->
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
