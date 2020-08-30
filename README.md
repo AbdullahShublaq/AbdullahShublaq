@@ -10,7 +10,7 @@
   <li>TDD (Test-driven development).</li>  
   <li>HTML, CSS, SASS, JS.</li>  
   <li>Bootstrap, TailwindCSS.</li>  
-  <li>JQuery, Ajax.</li>  
+  <li>JQuery, Ajax, Vuejs.</li>  
   <li>RESTFul API.</li>  
   <li>MySQL, MongoDB, PostgreSQL, Firebase.</li>  
   <li>Git, Github, Gitlab, BitBucket, SVN.</li>  
