@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Abdullah Shublaq</h2>
 <p><em>
-  I am a junior web developer with +2 years of experience in PHP Laravel, with multi-language multi-regional projects.
+  I am a junior web developer with +2 years of experience in PHP Laravel, with multi-language multi-regional projects.<br>
   I'm a fast learner, love doing challenges and problem solving.
 </em></p>
 
