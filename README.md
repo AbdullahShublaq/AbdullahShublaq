@@ -13,7 +13,7 @@
   <li>JQuery, Ajax, Vuejs.</li>  
   <li>RESTFul API.</li>  
   <li>MySQL, MongoDB, PostgreSQL, Firebase.</li>  
-  <li>Git, Github, Gitlab, BitBucket, SVN.</li>  
+  <li>Git, Github, BitBucket.</li>  
 </ul>
 
 <hr>
