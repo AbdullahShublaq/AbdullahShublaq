@@ -16,15 +16,12 @@
   <li>Git, Github, Gitlab, BitBucket, SVN.</li>  
 </ul>
 
-  [![Linkedin: abdullahshublaq](https://img.shields.io/badge/-abdullahshublaq-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
-  [![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq-red)](mailto:dev.abdullahshublaq@gmail.com
-  )
-  <a href="https://stackoverflow.com/users/13170519/abdullah-shublaq"><img src="https://img.shields.io/badge/StackOverflow-F27F33?logo=stackoverflow"/></a>
-  <!-- [![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq) -->
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
-
-
-![Abdullah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShublaq&layout=compact)
+<hr>
+![Linkedin: abdullahshublaq](https://img.shields.io/badge/-abdullahshublaq-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
+![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq-red)](mailto:dev.abdullahshublaq@gmail.com)
+<a href="https://stackoverflow.com/users/13170519/abdullah-shublaq"><img src="https://img.shields.io/badge/StackOverflow-F27F33?logo=stackoverflow"/></a>
+![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
 
 
 <!--
