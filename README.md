@@ -24,24 +24,7 @@
 [![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
 
-
-<!--
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const AbdullahShublaq = {
-  programmingLanguages: ["Java", "PHP", "Python],
-  technologies: {
-    FrontEnd: ["HTML", "CSS", "JS", "Bootstrap", "JQuery", "TailwindCSS"],
-    BackEnd: ["PHP", "Laravel", "Vuejs"],
-    Database: ["MySQL", "Oracle", "MongoDB"],
-    VCS: ["Git"],
-    API: ["REST"]
-  },
-  myNextGoal: ["Vuejs", "Flutter"]
-}
-```
--->
+![Abdullah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShublaq&layout=compact)
 
 <!--
 [![AbdullahShublaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahShublaq&show_icons=true)](https://github.com/AbdullahShublaq)
