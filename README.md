@@ -12,7 +12,7 @@
   <li>Bootstrap, TailwindCSS.</li>  
   <li>JQuery, Ajax, Vuejs.</li>  
   <li>RESTFul API.</li>  
-  <li>MySQL, MongoDB, PostgreSQL, Firebase.</li>  
+  <li>MySQL, Oracle, MongoDB, PostgreSQL, Firebase.</li>  
   <li>Git, Github, BitBucket.</li>  
 </ul>
 
