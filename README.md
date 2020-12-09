@@ -24,7 +24,7 @@
 [![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
 
-![Abdullah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShublaq&layout=compact)
+<!-- ![Abdullah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShublaq&layout=compact) -->
 
 <!--
 [![AbdullahShublaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahShublaq&show_icons=true)](https://github.com/AbdullahShublaq)
