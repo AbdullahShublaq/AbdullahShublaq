@@ -7,7 +7,7 @@
 <b>PRIMARY SKILLS</b>
 <ul>
   <li>PHP Laravel.</li> 
-  <li>TDD Test.</li>  
+  <li>TDD.</li>  
   <li>HTML, CSS, SASS, JS.</li>  
   <li>Bootstrap, TailwindCSS.</li>  
   <li>JQuery, Ajax, Vuejs.</li>  
