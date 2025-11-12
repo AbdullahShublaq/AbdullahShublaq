@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Abdullah Shublaq</h2>
 <p><em>
-  I am a intermediate web developer with +3 years of experience in PHP Laravel, with multi-language multi-regional projects.<br>
+  I am a senior web developer with +5 years of experience in PHP Laravel, with multi-language multi-regional projects.<br>
   I'm a fast learner, love doing challenges and problem solving.
 </em></p>
 
@@ -10,7 +10,7 @@
   <li>TDD.</li>  
   <li>HTML, CSS, SASS, JS.</li>  
   <li>Bootstrap, TailwindCSS.</li>  
-  <li>JQuery, Ajax, Vuejs.</li>  
+  <li>JVuejs, Query, Ajax</li>  
   <li>RESTFul API.</li>  
   <li>MySQL, Oracle, MongoDB, PostgreSQL, Firebase.</li>  
   <li>Git, Github, BitBucket.</li>  
